@@ -1,6 +1,6 @@
 # 📖 Hướng Dẫn Học Viên (Student Guide) — Lab 02: AI Product Scoping
 
-## Bài cá nhân Vinhomes — Lê Việt Khoa
+## Bài cá nhân Vinhomes — Lê Viết Khoa
 
 Xem [đánh giá và checklist bài cá nhân](05-individual-review.md),
 [Scan & 3 Cards](01-problem-scan.md), [Deep Dive](02-deep-dive-report.md),
