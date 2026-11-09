@@ -1,6 +1,6 @@
 # 🔍 Phase 1 — SCAN (Cá nhân, 20 min)
 
-**Họ tên:** Ngô Chí Vĩnh — **Branch:** `feat/vinh-03724` — **Mảng tập trung:** 🏢 Vinhomes
+**Họ tên:** Ngô Chí Vĩnh — **Branch:** `NgoChiVinh-2A202603724` — **Mảng tập trung:** 🏢 Vinhomes
 
 Hãy sử dụng **4 Lenses** dưới đây để quét qua hoạt động vận hành của các công ty thành viên Vingroup. Ghi lại **ít nhất 5 bài toán/bottleneck** thực tế.
 

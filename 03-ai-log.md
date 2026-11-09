@@ -1,6 +1,6 @@
 # 03 — AI Log & Reflection
 
-**Họ tên:** Ngô Chí Vĩnh — Branch: `feat/vinh-03724`
+**Họ tên:** Ngô Chí Vĩnh — Branch: `NgoChiVinh-2A202603724`
 **Công cụ AI đã dùng:** Claude, Gemini
 
 ---
